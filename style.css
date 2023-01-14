@@ -1,0 +1,27 @@
+body {
+    background: #84AEBF;
+}
+
+button {
+    width: fit-content;
+    font-size: 16px;
+    background: #b68694;
+    color: white;
+    margin: 30px 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+    transition: background-color .5s ease;
+}
+
+button:hover {
+    background-color: #a15e72;
+}
+
+input{
+    height: 35px;
+}
+
+.container {
+    border-style: solid;
+    border-color: black;
+}
