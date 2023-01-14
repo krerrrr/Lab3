@@ -1,1 +1,1 @@
-# Lab3
+[table for you](https://krerrrr.github.io/Lab3/)
